@@ -1,0 +1,143 @@
+[[libvofi]]
+arch = "aarch64"
+git-tree-sha1 = "8de39e9396c1d704499de5c8df42ee4bcd7f5ed2"
+os = "macos"
+
+    [[libvofi.download]]
+    sha256 = "9a6afd0a0d56a3ac1e6dd9efba607c2221d7b3ba378bb5b3e98479af321f72ab"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.aarch64-apple-darwin.tar.gz"
+[[libvofi]]
+arch = "aarch64"
+git-tree-sha1 = "240d548cbba5445e86766edc44378dc53aefac59"
+libc = "glibc"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "d6178fee7ec1460f5fc9e399e25f910ba78a4dedc85206817ae9cce5f7c129e2"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.aarch64-linux-gnu.tar.gz"
+[[libvofi]]
+arch = "aarch64"
+git-tree-sha1 = "a7ac61debb84c76ff6a3132033ea066b5a0c3d2b"
+libc = "musl"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "b047ba60c4a90095947df07dfcd5ea88282c0a608a0ac6883491e76a16bea880"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.aarch64-linux-musl.tar.gz"
+[[libvofi]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5718b1bc51ae4296168a4c47b280a1f3e695eb4d"
+libc = "glibc"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "da91761a1c7509dedbdaf550b97509241fc2480e2f8489e413dc7c9d7a87650b"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[libvofi]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2270191f748552ac692237d1d5ea6509f4493a04"
+libc = "musl"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "96bc45efee533f68e37714d4a5982593c14eeb175028911b08fe04f4c6ce6839"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.armv6l-linux-musleabihf.tar.gz"
+[[libvofi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b3c025f86615c39fba331105f328d625825e30b"
+libc = "glibc"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "3d4640d56353bd30dba9e19aeab12b3ce1c01ba28249a2ed7e6554ef2e11bf7c"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[libvofi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a768b01475a8e417eede78bf7a6dead5707830d2"
+libc = "musl"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "a68fca890ab5a0cda24c440524f908c545ae0da51bda921f7fd45e4b588c4983"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.armv7l-linux-musleabihf.tar.gz"
+[[libvofi]]
+arch = "i686"
+git-tree-sha1 = "1d83f4ba62db93fff29a82c4e8fea0404b5f8848"
+libc = "glibc"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "893f278176f6802d17e5d5f54a1fa8932667a1fd69c6aa5d28c23e9597e43d84"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.i686-linux-gnu.tar.gz"
+[[libvofi]]
+arch = "i686"
+git-tree-sha1 = "a17bff77c90c5357146e613d896b96c6a095c786"
+libc = "musl"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "81b0c6104ea38ac3c43c5de9ca394e4ceb0321a84248e09d00894a7d1c7d9554"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.i686-linux-musl.tar.gz"
+[[libvofi]]
+arch = "i686"
+git-tree-sha1 = "d5c3b63eb263131c3a89f83659739e418201c813"
+os = "windows"
+
+    [[libvofi.download]]
+    sha256 = "42eb5e4dc2dbb47f23ea34e1573b3620b4f7465bb7d18b971947246ece6f574c"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.i686-w64-mingw32.tar.gz"
+[[libvofi]]
+arch = "powerpc64le"
+git-tree-sha1 = "a009a56523b194d69bfc7e6786bd3153f552ea4e"
+libc = "glibc"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "f9c5a25990f4dcf3f23eebc55b45b2a0a8fd40de8ac982a72ab7e39c1beee93d"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.powerpc64le-linux-gnu.tar.gz"
+[[libvofi]]
+arch = "x86_64"
+git-tree-sha1 = "8612d7630ed73d22e1142dde45d9a3ca87156428"
+os = "macos"
+
+    [[libvofi.download]]
+    sha256 = "3da064ca7770546306e99e1a9e7333fe897a52944be7106de6f319d3e73379d0"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[libvofi]]
+arch = "x86_64"
+git-tree-sha1 = "f0471da9fe074ed81a87b325c6a93960c6d149b7"
+libc = "glibc"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "e051b8ba7eac38f6ec27fe9b63498b2f2732ed97e4043264f1d7bce401d92f67"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.x86_64-linux-gnu.tar.gz"
+[[libvofi]]
+arch = "x86_64"
+git-tree-sha1 = "307b6e25cc172eb00e281df5465d3d47d0a408ec"
+libc = "musl"
+os = "linux"
+
+    [[libvofi.download]]
+    sha256 = "fa0571187bc130562eaf186b4e0b933eb99dfc3b81287a140f617cd7cdd2f9f2"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.x86_64-linux-musl.tar.gz"
+[[libvofi]]
+arch = "x86_64"
+git-tree-sha1 = "70ef109408c6a83fa378ed1935b3e2b3cd5f4c4a"
+os = "freebsd"
+
+    [[libvofi.download]]
+    sha256 = "abc3afb5e5daf886f79fa18c72485ea12ff3cac41ce351e35dea004957bc6cf8"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[libvofi]]
+arch = "x86_64"
+git-tree-sha1 = "0e9ad11bbe3a5718073870303f10b1dad9986845"
+os = "windows"
+
+    [[libvofi.download]]
+    sha256 = "223b23e0a0cac1d448f55b42d31f62730128da068310fa6a8c4be746f1f19a66"
+    url = "https://github.com/JuliaBinaryWrappers/libvofi_jll.jl/releases/download/libvofi-v2.0.0+0/libvofi.v2.0.0.x86_64-w64-mingw32.tar.gz"
